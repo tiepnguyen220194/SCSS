@@ -1,0 +1,10 @@
+.tiep {
+  font-size: 10px;
+  color: red; }
+
+body {
+  background: #333; }
+
+/* sass --watch scss/style.scss:css/style.css */
+
+/*# sourceMappingURL=style.css.map */

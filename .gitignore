@@ -1,0 +1,25 @@
+/vendor
+
+# wordpress
+wp-config.php
+#caches/
+#cache/
+*.log
+# *.sql
+
+# npm
+npm-debug.log
+
+# composer
+composer.lock
+
+# node
+node_modules/
+
+# bower
+bower_components/
+
+# MacOS
+.phpintel
+.DS_Store
+.htaccess
