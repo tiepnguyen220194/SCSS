@@ -7,6 +7,8 @@ wp-config.php
 *.log
 # *.sql
 
+/.sass-cache
+
 # npm
 npm-debug.log
 
