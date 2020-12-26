@@ -1,4 +1,4 @@
 # scss
-scss cho người mới bắt đầu
+SCSS cho người mới bắt đầu
 
-chỉ cần chạy lệnh watch trong file scss/css/style.css render trong terminal
+Coppy lệnh watch trong file scss/css/style.css chạy trong terminal
